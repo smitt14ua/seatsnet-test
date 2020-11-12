@@ -5,4 +5,5 @@
 сервер: mysql  
 пользователя: root  
 пароль: root  
-3. Зайти на localhost:80
+3. Выполнить sql запрос из файла init.sql
+4. Зайти на localhost:80
